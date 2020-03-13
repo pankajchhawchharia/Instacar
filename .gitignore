@@ -1,3 +1,5 @@
 # Dependency directories
 node_modules/
+
+# Run time files
 package-lock.json/
